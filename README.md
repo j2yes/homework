@@ -2,10 +2,10 @@
 WMP 과제를 위한 프로젝트
 
 ## 개발(실행)환경
-Springboot 1.5.16
-JAVA 1.8  
-jUnit 
-logback
+- SpringBoot 1.5.16
+- Java 1.8  
+- jUnit 
+- logBack
 
 ## Description
 - 과제를 위한 임시프로젝트 입니다. 
