@@ -1,8 +1,10 @@
-package com.wmp.utils;
+package com.wmp.utils.test;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.wmp.utils.WmpStringUtils;
 
 public class WmpStringUtilsTest {
 	
